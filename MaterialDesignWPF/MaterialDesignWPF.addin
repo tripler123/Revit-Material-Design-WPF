@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Assembly>MaterialDesignWPF.dll</Assembly>
+		<ClientId>15376330-2a48-46a9-9cbe-cd79cd544902</ClientId>
+		<FullClassName>MaterialDesignWPF.CmdHelloWorld</FullClassName>
+		<Text>WPF Basics</Text>
+		<Description>WPF Basics</Description>
+		<VisibilityMode>AlwaysVisible</VisibilityMode>
+		<VendorId>ADSK</VendorId>
+		<VendorDescription>Lambda Ingenieria e Innovacion</VendorDescription>
+	</AddIn>
+</RevitAddIns>
